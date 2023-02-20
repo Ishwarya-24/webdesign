@@ -1,0 +1,10 @@
+span span{
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: inline-block;
+    list-style: none;
+    margin: 60px 500px;
+    color: black;
+    font-size: xx-large;
+}
